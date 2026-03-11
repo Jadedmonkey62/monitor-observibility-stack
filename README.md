@@ -1,7 +1,4 @@
 # Observability Stack Deployment
-> Grafana · Prometheus · Loki · Mimir · Promtail on AWS EC2
-
----
 
 ## Prerequisites
 
