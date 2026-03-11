@@ -62,7 +62,6 @@ curl http://localhost:9009/ready       # Mimir
 
 **Verify in Grafana:**
 1. Go to **Connections → Data sources** → click each → **Save & Test**
-2. Go to **Explore** → select **Mimir** → run: `up`
-3. Go to **Explore** → select **Loki** → run: `{job="varlogs"}`
+2. Go to **Explore** → select **Loki** → run: `{job="varlogs"}`
 
 
